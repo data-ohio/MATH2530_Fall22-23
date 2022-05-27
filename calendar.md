@@ -4,7 +4,7 @@ title: Calendar
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# {{ page.title }}
 
 {{ site.full_title }}
 

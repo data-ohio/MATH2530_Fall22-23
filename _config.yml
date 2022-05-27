@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MATH 2530
-full_title: MATH 2530 Introductory Data Science, Fall 2022-23
+full_title: MATH 2530 Introductory Data Science, Ohio University, Fall 2022-23
 email: mohlenka@ohio.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
