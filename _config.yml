@@ -31,7 +31,9 @@ nav_links:
   Links:
     Textbook:
       - 'https://data-ohio.github.io/introductory-data-science/'
-
+aux_links:
+  'Kevin Lin':
+    - 'https://kevinl.info'
 
 # Build settings
 markdown: kramdown
@@ -67,4 +69,4 @@ defaults:
 
 # empty the footer
 footer:
-
+  "footer"

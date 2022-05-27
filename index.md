@@ -12,8 +12,8 @@ title: Home
 
 Fall 2022-23
 
-Description
-: Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
+
+> Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
 
 This course is designed around [TMM026-Introductory Data Science](https://www.ohiohighered.org/sites/default/files/uploads/transfer/policy/Introductory%20to%20Data%20Science%20Learning%20Outcomes%20%2812.3.21%29.pdf), which is the Ohio Department of Higher Education's standard for transferability under [Ohio Transfer 36](https://www.ohiohighered.org/Ohio-Transfer-36).
 
