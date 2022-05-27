@@ -1,17 +1,17 @@
 ---
-title: Week 4
-weekNumber: 4
+title: Week 7
+weekNumber: 7
 days:
-- date: 2022-09-12
+- date: 2022-10-03
   events:
     ? ''
-- date: 2022-09-13
+- date: 2022-10-04
   events:
     ? '**Lab**{: .label .label-lab }'
-- date: 2022-09-14
+- date: 2022-10-05
   events:
     ? ''
-- date: 2022-09-16
+- date: 2022-10-07
   events:
     ? '**Homework**{: .label .label-hw }'
 ---
