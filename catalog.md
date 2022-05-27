@@ -4,7 +4,11 @@ title: Catalog Information
 permalink: /catalog/
 ---
 
+# {{ title }}
+
 {{ site.full_title }}
+
+[Catalog Entry (2022-23)](https://www.catalogs.ohio.edu/preview_course_nopop.php?catoid=75&coid=423264)
 
 Description
 : Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
@@ -12,26 +16,29 @@ Description
 Requisites
 : (Math placement 2 or higher) or MATH 1200 or 155 or PSY 1110
 
+Credit Hours 
+: 4
 
-   <h2><a href="https://www.catalogs.ohio.edu/preview_course_nopop.php?catoid=75&coid=423264">Catalog Entry (2022-23)</a>
-    </h2>
-    <dl>
-      <dt>Description:</dt>
-      <dd>Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.<dd>
-      </dd>
-      <dt>Requisites:</dt>
-      <dd>(Math placement 2 or higher) or MATH 1200 or 155 or PSY 1110</dd>
-      <dt>Credit Hours:</dt>      <dd>4</dd>
-      <!-- <dt>OHIO BRICKS</dt>      <dd>*****</dd> NOT UNTIL OT36 APPROVED-->
-      <!--<dt>General Education Code (students who entered prior to Fall 2021-22):</dt> <dd>???</dd>-->
-      <dt>Repeat/Retake Information:</dt> <dd>May be retaken two times excluding withdrawals, but only last course taken counts.</dd>
-      <dt>Lecture/Lab Hours:</dt> <dd>3.0 lecture; 1.5 recitation</dd>
-      <dt>Grades:</dt> <dd>Eligible Grades: A-F,WP,WF,WN,FN,AU,I</dd>
-      <!--      <dt>Course Transferability:</dt> <dd>OT36 course: <a href="">TMM0</a>PLANNED</dd>-->
-      <!-- <dt>College Credit Plus:</dt> <dd>*****Level 1</dd> DUNNO -->
-      <dt>Learning Outcomes:</dt>
-     <dd>
-	<ul>
+<!-- <dt>OHIO BRICKS</dt>      :***** NOT UNTIL OT36 APPROVED-->
+      <!--<dt>General Education Code (students who entered prior to Fall 2021-22) :???-->
+
+Repeat/Retake Information 
+: May be retaken two times excluding withdrawals, but only last course taken counts.
+
+Lecture/Lab Hours 
+: 3.0 lecture; 1.5 recitation
+
+Grades 
+: Eligible Grades: A-F,WP,WF,WN,FN,AU,I
+  
+  <!--Course Transferability :OT36 course: <a href="">TMM0</a>PLANNED-->
+      <!-- <dt>College Credit Plus :*****Level 1 DUNNO -->
+
+Learning Outcomes
+: * Students will be able to distinguish between types and sources of data.
+  * Students will be able to acquire raw data from a variety of sources.
+  
+  <ul>
 	  <li>
 	    Students will be able to distinguish between types and sources of data.
 	  </li><li>
@@ -74,10 +81,9 @@ Requisites
 	    Students will be able to cite sampling bias in its various forms.
 	  </li>
 	</ul>
-      </dd>
-      <dt>Quantitative Reasoning Learning Outcomes:</dt>
-      <dd>
-	<ul>
+      
+Quantitative Reasoning Learning Outcomes
+:	<ul>
 	  <li>
 	    Interpretation. Students will be able to explain information presented in mathematical forms (e.g., equations, graphs, diagrams, tables, words).
 	  </li><li>
@@ -92,5 +98,4 @@ Requisites
 	    Communications. Students will be able to express quantitative evidence in support of the argument or purpose of the work (in terms of what evidence is used and how it is formatted, presented, and contextualized).
 	  </li>
 	</ul>
-      </dd>
-    </dl>
+      
