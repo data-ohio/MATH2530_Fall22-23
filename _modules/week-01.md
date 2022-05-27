@@ -11,14 +11,14 @@ days:
 - date: 2022-08-24
   events:
     ? '[Chapter 1. Data Curation](https://data-ohio.github.io/introductory-data-science/1/1_curation.html)'
-	? '[1.1. Types and Sources of Data](https://data-ohio.github.io/introductory-data-science/1/1/1_1_data_types.html)'
+    ? '[1.1. Types and Sources of Data](https://data-ohio.github.io/introductory-data-science/1/1/1_1_data_types.html)'
 - date: 2022-08-26
   events:
     ? '**Homework 1**{: .label .label-hw }'
 ---
 
 Sep 28
-: [Java & Git](#)
+: [Java & Git](#)fffff
   : [1.1](#)
 
 Sep 29
