@@ -26,16 +26,18 @@ url: "https://data-ohio.github.io" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 github_username: MartinMohlenkamp
 
-# Navigation link
+# DS-100 customization to put in sidebar
+# When tried by using DS-100 default.html layout, broke build
+# in just-the-docs nav.html
 #nav_links:
 #  Links:
 #    Textbook:
 #      - 'https://data-ohio.github.io/introductory-data-science/'
 
 ### appear after search bar in upper right
-#aux_links:
-#  'Kevin Lin':
-#    - 'https://kevinl.info'
+aux_links:
+  'Textbook':
+    - 'https://data-ohio.github.io/introductory-data-science/'
 
 # Build settings
 markdown: kramdown

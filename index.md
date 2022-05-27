@@ -21,3 +21,4 @@ This course is designed around [TMM026-Introductory Data Science](https://www.oh
 * See the [Catalog Information](catalog/) page for the official description of the course and its learning outcomes.
 * See the [Syllabus](syllabus/) page for information and policies specific to this offering of the course.
 * See the [Calendar](calendar/) page for reading, assignments, labs, etc.
+* See the textbook [Introductory Data Science](https://data-ohio.github.io/introductory-data-science/)
