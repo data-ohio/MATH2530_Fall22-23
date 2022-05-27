@@ -27,10 +27,10 @@ url: "https://data-ohio.github.io" # the base hostname & protocol for your site,
 github_username: MartinMohlenkamp
 
 # Navigation link
-nav_links:
-  Links:
-    Textbook:
-      - 'https://data-ohio.github.io/introductory-data-science/'
+#nav_links:
+#  Links:
+#    Textbook:
+#      - 'https://data-ohio.github.io/introductory-data-science/'
 
 ### appear after search bar in upper right
 #aux_links:
@@ -70,5 +70,4 @@ defaults:
       layout: module
 
 # empty the footer
-footer:
-  ""
+#footer:  ""
