@@ -2,6 +2,7 @@
 layout: page
 title: Catalog Information
 permalink: /catalog/
+nav_order: 2
 ---
 
 # {{ page.title }}

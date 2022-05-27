@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
+nav_order: 3
 ---
 
 # {{ page.title }}

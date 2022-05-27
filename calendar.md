@@ -3,6 +3,7 @@ layout: page
 title: Calendar
 permalink: /calendar/
 description: Listing of course modules and topics.
+nav_order: 4
 ---
 
 # {{ page.title }}
