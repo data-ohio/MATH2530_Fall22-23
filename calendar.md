@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar
+permalink: /calendar/
 description: Listing of course modules and topics.
 ---
 
