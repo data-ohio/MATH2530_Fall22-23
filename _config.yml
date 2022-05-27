@@ -27,7 +27,7 @@ github_username: MartinMohlenkamp
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -43,6 +43,16 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.3.3
+
 # Collections for web data
 collections:
   modules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
