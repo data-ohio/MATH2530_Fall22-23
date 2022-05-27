@@ -8,6 +8,10 @@ permalink: /syllabus/
 
 {{ site.full_title }}
 
+Section 100 lecture (class number 12703) and section 101 recitation/laboratory (class number 12704).
+
+<mark style="background-color: #FFFF00">DRAFT!</mark>
+
 Instructor 
 : [Martin J. Mohlenkamp](http://www.ohiouniversityfaculty.com/mohlenka/),
   [mohlenka@ohio.edu](mailto:mohlenka@ohio.edu),
@@ -15,11 +19,10 @@ Instructor
       
 
 Office hours
-: **TBD***
+: **TBD**
   
 Web page
-: [http://www.ohiouniversityfaculty.com/mohlenka/2231/2530/](http://www.ohiouniversityfaculty.com/mohlenka/2231/2530/)
-      
+: [https://data-ohio.github.io/MATH2530_Fall22-23/](https://data-ohio.github.io/MATH2530_Fall22-23/)      
 
 Class hours/ location
 : Lecture 3:05 PM to 4:00 PM Monday, Wednesday, and Friday.
@@ -29,17 +32,10 @@ Class hours/ location
       
 
 Interaction environment
-: We **will**  have a class Teams team for asynchronous communication or in case we are forced online.
-<!--	The main activities there are in channels:
-	<dl>
-	  <dt>Content questions
-	  
-	    As questions here so that others get the benefit of your questions too.
-	    Respond to others' questions to help them figure it out. (Posting solutions to homework questions is not being helpful.)
-	    I will answer in the channel so that everyone gets the benefit.	    
-	  
-	</dl>
--->       
+: We will  have a class Teams team for asynchronous communication or in case we are forced online.
+  Ask questions there so that others get the benefit of your questions too.
+  Respond to others' questions to help them figure it out. (Posting solutions to homework questions is not being helpful.)
+  I will answer in the channel so that everyone gets the benefit.	    
 
 Text
 : [Introductory Data Science](https://data-ohio.github.io/introductory-data-science/intro.html)
@@ -50,7 +46,7 @@ Computing Environment
   It is **TBD** whether we will run these notebooks using [CoCalc](https://cocalc.com/), a [JupyterHub](https://jupyter.org/hub), or the [Ohio Supercomputer Center](https://www.osc.edu/).
 
 Lecture attendance
-: You are allowed 5**** absences (out of 41**** classes) without penalty; these include university excused absences for illness, death in the immediate family, religious observance, jury duty, or involvement in University-sponsored activities. Each additional absence will reduce your final average by 0.5%. Your attendance record will be available in Blackboard.
+: You are allowed **TBD** absences without penalty; these include university excused absences for illness, death in the immediate family, religious observance, jury duty, or involvement in University-sponsored activities. Each additional absence will reduce your final average by 0.5%. Your attendance record will be available in Blackboard.
 
 Homework
 : There is a homework assignment due in most weeks. Late homework is penalized 10% per day (or part	thereof) late. Your lowest two scores are dropped.
@@ -62,10 +58,14 @@ Projects
 : There are three substantial, multi-week projects during the semester. Some time in the Tuesday lab meetings will be used to work on projects. You can do your project alone or with one partner. 
            
 Tests and Exam
-: There will be **one**?? mid-term test. The final exam is on **TBD**.
+: There will be two mid-term tests. The final exam is on **TBD**.
       
 Grade
-: Your grade is based on the labs 10%, the homework 20%, the projects 25%, the midterm test 15%, and the final exam 30%.
+: Your grade is based on the labs 10%, 
+  the homework 20%, 
+  the projects 25%, 
+  the midterm test 20%, 
+  and the final exam 25%.
   An average of 90% guarantees you at least an A-, 80% a B-, 70% a C-, and 60% a D-.
             
 Academic (mis)conduct 
