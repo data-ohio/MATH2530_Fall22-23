@@ -4,7 +4,7 @@
 
 layout: page
 title: Home
-nav_order: 1
+#nav_order: 1
 ---
 
 # MATH 2530 Introductory Data Science
