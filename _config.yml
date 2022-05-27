@@ -71,4 +71,4 @@ defaults:
 
 # empty the footer
 footer:
-
+  ""
