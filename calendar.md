@@ -20,118 +20,23 @@ nav_order: 4
 <mark style="background-color: #FFFF00">DRAFT! PLACEHOLDERS</mark>
 
 
-<a href="https://data-ohio.github.io/introductory-data-science/1/1_curation.html">Chapter 1. Data Curation</a>
+
 <a href="https://data-ohio.github.io/introductory-data-science/2/2_visualization.html">Chapter 2. Enhanced data visualization</a>
 <a href="https://data-ohio.github.io/introductory-data-science/3/3_models.html">Chapter 3. Statistical models, estimation, and prediction</a>
 <a href="https://data-ohio.github.io/introductory-data-science/4/4_learning.html">Chapter 4. Machine learning and statistical learning</a>
 <a href="https://data-ohio.github.io/introductory-data-science/5/5_ethics.html">Chapter 5. Data ethics</a>
 
-<a href="https://data-ohio.github.io/introductory-data-science/1/1/1_1_data_types.html">1.1. Types and Sources of Data</a>
+
 <a href="https://data-ohio.github.io/introductory-data-science/1/2/1_2_acquire_data.html">1.2. Collecting Data</a>
 <a href="">1.3. Organizing and Standardizing Data</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+
       
 <table>
   <tbody>
     <tr><th scope="col">Week</th> <th scope="col">Date</th> <th scope="col">Topic / Resources</th>
       <th scope="col">Assignment / Test</th>
     </tr>    
-    <tr><th rowspan="5" scope="rowgroup">1</th></tr>
-    <tr>
-      <td>Mon Aug 22</td><td>
-	Introduction
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr><td>Tues Aug 23</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Lab 01: </a>
-    </td></tr>
-    <tr>
-      <td>Wed Aug 24</td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Fri Aug 26</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
-    <tr><th rowspan="5" scope="rowgroup">2</th></tr>
-    <tr>
-      <td>Mon Aug 29</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Homework 01</a> due
-    </td>
-    </tr>
-    <tr><td>Tues Aug 30</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Lab 02: </a>
-    </td></tr>
-    <tr>
-      <td>Wed Aug 31</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
-    <tr>
-      <td>Fri Sep 2</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
-    <tr><th rowspan="5" scope="rowgroup">3</th></tr>
-    <tr>
-      <td>Mon Sep 5</td>
-      <td colspan="3"><i>Labor day holiday, no class</i></td>
-    </tr>
-    <tr><td>Tues Sep 6</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Lab 03: </a>
-    </td></tr>
-    <tr>
-      <td>Wed Sep 7</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Homework 02</a> due
-    </td>
-    </tr>
-    <tr>
-      <td>Fri Sep 9</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
-    <tr><th rowspan="5" scope="rowgroup">4</th></tr>
+     <tr><th rowspan="5" scope="rowgroup">4</th></tr>
     <tr>
       <td>Mon Sep 12</td><td>
       </td><td>
