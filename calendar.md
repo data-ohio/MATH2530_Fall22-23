@@ -35,32 +35,7 @@ nav_order: 4
   <tbody>
     <tr><th scope="col">Week</th> <th scope="col">Date</th> <th scope="col">Topic / Resources</th>
       <th scope="col">Assignment / Test</th>
-    </tr>    
-     <tr><th rowspan="5" scope="rowgroup">4</th></tr>
-    <tr>
-      <td>Mon Sep 12</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Homework 03</a> due
-    </td>
-    </tr>
-    <tr><td>Tues Sep 13</td><td>
-      </td><td>
-      </td><td>
-	<a href="">Lab 04: </a>
-    </td></tr>
-    <tr>
-      <td>Wed Sep 14</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
-    <tr>
-      <td>Fri Sep 15</td><td>
-      </td><td>
-      </td><td>
-    </td>
-    </tr>
+    </tr> 
     <tr><th rowspan="5" scope="rowgroup">5</th></tr>
     <tr>
       <td>Mon Sep 19</td><td>

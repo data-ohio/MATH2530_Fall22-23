@@ -7,11 +7,11 @@ days:
     ? ''
 - date: 2022-08-30
   events:
-    ? '**Lab **{: .label .label-lab }'
+    ? '**Lab**{: .label .label-lab }'
 - date: 2022-08-31
   events:
     ? ''
 - date: 2022-09-02
   events:
-    ? '**Homework **{: .label .label-hw }'
+    ? '**Homework**{: .label .label-hw }'
 ---

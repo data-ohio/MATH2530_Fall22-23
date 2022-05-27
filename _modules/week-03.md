@@ -7,11 +7,11 @@ days:
     ? 'Labor day holiday, no class'
 - date: 2022-09-06
   events:
-    ? '**Lab **{: .label .label-lab }'
+    ? '**Lab**{: .label .label-lab }'
 - date: 2022-09-07
   events:
     ? ''
 - date: 2022-09-09
   events:
-    ? '**Homework **{: .label .label-hw }'
+    ? '**Homework**{: .label .label-hw }'
 ---
