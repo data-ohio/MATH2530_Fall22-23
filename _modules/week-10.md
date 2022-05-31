@@ -4,7 +4,8 @@ weekNumber: 10
 days:
 - date: 2022-10-24
   events:
-    ? '[4.3. Unsupervised Learning](https://data-ohio.github.io/introductory-data-science/4/3/4_3_unsupervised.html)'
+    ? '[Chapter 4. Machine learning and statistical learning](https://data-ohio.github.io/introductory-data-science/4/4_learning.html)'
+    ? '[4.1. Machine Learning](https://data-ohio.github.io/introductory-data-science/4/1/4_1_machine.html)'
 - date: 2022-10-25
   events:
     ? '**Lab**{: .label .label-lab }'

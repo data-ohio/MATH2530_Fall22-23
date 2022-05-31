@@ -10,8 +10,7 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-09-07
   events:
-    ? '[Chapter 2. Enhanced data visualization](https://data-ohio.github.io/introductory-data-science/2/2_visualization.html)'
-    ? '[2.1. Traditional Plots](https://data-ohio.github.io/introductory-data-science/2/1/2_1_traditional_plots.html)'
+    ? '[1.4. Cleaning data](https://data-ohio.github.io/introductory-data-science/1/4/1_4_clean_data.html)'
 - date: 2022-09-09
   events:
     ? '**Homework**{: .label .label-hw }'

@@ -4,15 +4,17 @@ weekNumber: 8
 days:
 - date: 2022-10-10
   events:
-    ? '[3.3. Simulation-Based Estimation and Prediction](https://data-ohio.github.io/introductory-data-science/3/3/3_3_simulation.html)'
+    ? '[Chapter 3. Statistical models, estimation, and prediction](https://data-ohio.github.io/introductory-data-science/3/3_models.html)'
+    ? '[3.1. Statistical Model](https://data-ohio.github.io/introductory-data-science/3/1/3_1_statistical.html)'
 - date: 2022-10-11
   events:
-    ? '**Lab**{: .label .label-lab }'
+    ? '**Test**{: .label .label-disc } on Chapters 1 and 2'
 - date: 2022-10-12
   events:
     ? ''
 - date: 2022-10-14
   events:
+    ? '[3.2. Estimator and Sampling Distribution](https://data-ohio.github.io/introductory-data-science/3/2/3_2_estimator.html)'
     ? '**Homework**{: .label .label-hw }'
 ---
 
