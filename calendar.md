@@ -10,7 +10,7 @@ nav_order: 4
 
 {{ site.full_title }}
 
-<mark style="background-color: #FFFF00">DRAFT! PLACEHOLDERS</mark>
+<mark style="background-color: #FFFF00">DRAFT!</mark>
 
 {% for module in site.modules %}
 {{ module }}

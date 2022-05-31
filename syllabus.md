@@ -93,7 +93,7 @@ Academic (mis)conduct
     * Websites that claim to have homework, lab, or project solutions for this class.
     * Direct copying.
 
-    If you are not sure if something is allowed, then ask me first.
+  If you are not sure if something is allowed, then ask me first.
 	  
   A minor, first-time violation of this policy will receive a warning
   and discussion and clarification of the rules.  Serious or second
