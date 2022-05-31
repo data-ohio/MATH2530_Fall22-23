@@ -10,7 +10,7 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-11-30
   events:
-    ? ''
+    ? '**Project 3**{: .label .label-proj } due'
 - date: 2022-12-02
   events:
     ? '**Homework**{: .label .label-hw }'

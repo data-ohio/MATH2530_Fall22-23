@@ -11,7 +11,7 @@ days:
     ? '**Test**{: .label .label-disc } on Chapters 1 and 2'
 - date: 2022-10-12
   events:
-    ? ''
+    ? '**Project 2**{: .label .label-proj } kickoff'
 - date: 2022-10-14
   events:
     ? '[3.2. Estimator and Sampling Distribution](https://data-ohio.github.io/introductory-data-science/3/2/3_2_estimator.html)'

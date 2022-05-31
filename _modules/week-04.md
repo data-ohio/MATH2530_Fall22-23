@@ -11,6 +11,7 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-09-14
   events:
+    ? '**Project 1**{: .label .label-proj } kickoff'
     ? '[2.2. Single vs. Two or More Variables](https://data-ohio.github.io/introductory-data-science/2/2/2_2_charting_techniques.html)'
 - date: 2022-09-16
   events:

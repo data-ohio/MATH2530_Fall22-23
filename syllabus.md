@@ -53,7 +53,7 @@ Homework
 : There is a homework assignment due in most weeks. Late homework is penalized 10% per day (or part	thereof) late. Your lowest two scores are dropped.
 
 Labs
-: In **10**? of the weeks, the Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest score is dropped.
+: In most of the weeks, the Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest score is dropped.
 
 Projects
 : There are three substantial, multi-week projects during the semester. Some time in the Tuesday lab meetings will be used to work on projects. You can do your project alone or with one partner. 
