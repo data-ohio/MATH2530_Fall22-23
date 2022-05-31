@@ -14,5 +14,6 @@ days:
     ? '[1.1. Types and Sources of Data](https://data-ohio.github.io/introductory-data-science/1/1/1_1_data_types.html)'
 - date: 2022-08-26
   events:
+    ? '[1.2. Collecting Data](https://data-ohio.github.io/introductory-data-science/1/2/1_2_acquire_data.html)'
     ? '**Homework 1**{: .label .label-hw }'
 ---
