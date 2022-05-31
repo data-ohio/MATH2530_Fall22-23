@@ -17,8 +17,6 @@ nav_order: 4
 
 {% endfor %}
 
-<mark style="background-color: #FFFF00">DRAFT! PLACEHOLDERS</mark>
-
 
 
 

@@ -14,13 +14,5 @@ days:
 - date: 2022-09-02
   events:
     ? '**Homework**{: .label .label-hw }'
-    ? '[Chapter 2. Enhanced data visualization](https://data-ohio.github.io/introductory-data-science/2/2_visualization.html)'
-    ? '[Chapter 3. Statistical models, estimation, and prediction](https://data-ohio.github.io/introductory-data-science/3/3_models.html)'
-    ? '[Chapter 4. Machine learning and statistical learning](https://data-ohio.github.io/introductory-data-science/4/4_learning.html)'
-    ? '[Chapter 5. Data ethics](https://data-ohio.github.io/introductory-data-science/5/5_ethics.html)'
-    ? '[]()'
-    ? '[]()'
-    ? '[]()'
-    ? '[]()'
-    ? '[]()'
+    ? '[1.4. Cleaning data](https://data-ohio.github.io/introductory-data-science/1/4/1_4_clean_data.html)'
 ---
