@@ -8,7 +8,6 @@ days:
 - date: 2022-11-22
   events:
     ? '**Lab**{: .label .label-lab }'
-    ? '**Project 3**{: .label .label-proj } checkpoint due'
 - date: 2022-11-23
   events:
     ? 'Thanksgiving holiday, no class'

@@ -11,7 +11,7 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-10-26
   events:
-    ? '**Project 2**{: .label .label-proj } due'
+    ? '**Test**{: .label .label-disc } through Chapter 3'
 - date: 2022-10-28
   events:
     ? '**Homework**{: .label .label-hw }'

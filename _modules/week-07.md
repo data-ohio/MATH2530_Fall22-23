@@ -9,7 +9,6 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-10-05
   events:
-    ? '**Project 1**{: .label .label-proj } due'
     ? '[2.6. Misleading Graphs](https://data-ohio.github.io/introductory-data-science/2/6/2_6_misleading.html)'
 - date: 2022-10-07
   events:

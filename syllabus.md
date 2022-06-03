@@ -53,20 +53,20 @@ Homework
 : There is a homework assignment due in most weeks. Late homework is penalized 10% per day (or part	thereof) late. Your lowest two scores are dropped.
 
 Labs
-: In most of the weeks, the Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest score is dropped.
+: In most of the weeks, the Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest two scores are dropped when computing your grade.
 
-Projects
-: There are three substantial, multi-week projects during the semester. Some time in the Tuesday lab meetings will be used to work on projects. You can do your project alone or with one partner. 
-           
-Tests and Exam
-: There will be two mid-term tests. The final exam is on **TBD**.
+Tests
+: There will be 4 mid-term tests. Your lowest score is dropped when computing your grade.
+
+Final Exam
+: The final exam is on **TBD** (during the week of December 5).
       
 Grade
-: Your grade is based on the labs 10%, 
-  the homework 20%, 
-  the projects 25%, 
-  the midterm test 20%, 
-  and the final exam 25%.
+: Your grade is based on 
+  * 20% labs
+  * 30% homework
+  * 30% mid-term tests
+  * 20% final exam.
   An average of 90% guarantees you at least an A-, 80% a B-, 70% a C-, and 60% a D-.
             
 Academic (mis)conduct 
@@ -75,7 +75,6 @@ Academic (mis)conduct
   Unlimited use, without specific acknowledgment
   : * The textbook.
     * Discussions with me.
-    * Your partner, for the project.
 	  
   Broad use, with acknowledgment
   : * Websites on statistics, data science, etc.
@@ -90,7 +89,7 @@ Academic (mis)conduct
 	  
   Forbidden
   : * The work or programs from students who took this class (in any of its versions at any university).
-    * Websites that claim to have homework, lab, or project solutions for this class.
+    * Websites that claim to have solutions for this class.
     * Direct copying.
 
   If you are not sure if something is allowed, then ask me first.

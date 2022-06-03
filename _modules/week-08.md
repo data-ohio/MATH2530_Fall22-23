@@ -8,10 +8,10 @@ days:
     ? '[3.1. Statistical Model](https://data-ohio.github.io/introductory-data-science/3/1/3_1_statistical.html)'
 - date: 2022-10-11
   events:
-    ? '**Test**{: .label .label-disc } on Chapters 1 and 2'
+    ? '**Lab**{: .label .label-lab }'
 - date: 2022-10-12
   events:
-    ? '**Project 2**{: .label .label-proj } kickoff'
+    ? '**Test**{: .label .label-disc } through Chapter 2'
 - date: 2022-10-14
   events:
     ? '[3.2. Estimator and Sampling Distribution](https://data-ohio.github.io/introductory-data-science/3/2/3_2_estimator.html)'

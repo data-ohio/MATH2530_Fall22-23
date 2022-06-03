@@ -10,7 +10,7 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-11-09
   events:
-    ? '**Project 3**{: .label .label-proj } kickoff'
+    ? ''
 - date: 2022-11-11
   events:
     ? 'Veterans day  holiday, no class'
