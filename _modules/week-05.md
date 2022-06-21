@@ -5,7 +5,7 @@ days:
 - date: 2022-09-19
   events:
     ? '[2.3. Dynamic Visualization](https://data-ohio.github.io/introductory-data-science/2/3/2_3_dynamic_plotting.html)'
- - date: 2022-09-20
+- date: 2022-09-20
   events:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-09-21
