@@ -22,3 +22,5 @@ This course is designed around [TMM026-Introductory Data Science](https://www.oh
 * See the [Syllabus](syllabus/) page for information and policies specific to this offering of the course.
 * See the [Calendar](calendar/) page for readings, assignments, labs, etc.
 * See the textbook [Introductory Data Science](https://data-ohio.github.io/introductory-data-science/)
+
+I would like to thank the [University of California, Berkeley Division of Computing, Data Science, and Society](https://data.berkeley.edu/) for their support in providing materials for this course.
