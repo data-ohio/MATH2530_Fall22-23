@@ -2,7 +2,7 @@
 title: Week 16
 weekNumber: 16
 days:
-- date: 2022-12-05
+- date: 2022-12-07
   events:
-    ? 'The exam will be sometime this week, **TBD**'
+    ? 'Final exam, 12:20-2:20pm, in our regular classroom.'
 ---

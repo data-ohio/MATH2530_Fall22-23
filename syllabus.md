@@ -11,16 +11,14 @@ nav_order: 3
 
 Section 100 lecture (class number 12703) and section 101 recitation/laboratory (class number 12704).
 
-<mark style="background-color: #FFFF00">DRAFT!</mark>
-
 Instructor 
 : [Martin J. Mohlenkamp](http://www.ohiouniversityfaculty.com/mohlenka/),
   [mohlenka@ohio.edu](mailto:mohlenka@ohio.edu),
-  Morton Hall 321C. The bests ways to contact me are email or Teams.
+  Morton Hall 321C. The best ways to contact me are email or Teams.
       
 
 Office hours
-: **TBD**
+: I will make sure to be available in my office Fridays 2:00-3:00pm to answer questions and otherwise help. I am happy to help you other times upon request.
   
 Web page
 : [https://data-ohio.github.io/MATH2530_Fall22-23/](https://data-ohio.github.io/MATH2530_Fall22-23/)      
@@ -31,42 +29,33 @@ Class hours/ location
   The "recitation" is really an 80-minute computer laboratory.
   All meetings are in Morton Hall room 314, which is a teaching computer lab.
       
-
-Interaction environment
-: We will  have a class Teams team for asynchronous communication or in case we are forced online.
-  Ask questions there so that others get the benefit of your questions too.
-  Respond to others' questions to help them figure it out. (Posting solutions to homework questions is not being helpful.)
-  I will answer in the channel so that everyone gets the benefit.	    
-
 Text
 : [Introductory Data Science](https://data-ohio.github.io/introductory-data-science/intro.html)
-      
 
 Computing Environment
-: We will be using the [Python](https://www.python.org/) programming language within [Jupyter Notebooks](https://jupyter.org/).
-  It is **TBD** whether we will run these notebooks using [CoCalc](https://cocalc.com/), a [JupyterHub](https://jupyter.org/hub), or the [Ohio Supercomputer Center](https://www.osc.edu/).
+: We will be using the [Python](https://www.python.org/) programming language within [Jupyter Notebooks](https://jupyter.org/), run in [Ohio University's JupyterHub](https://jupyterhub.academic.kube.ohio.edu).
 
 Lecture attendance
-: You are allowed **TBD** absences without penalty; these include university excused absences for illness, death in the immediate family, religious observance, jury duty, or involvement in University-sponsored activities. Each additional absence will reduce your final average by 0.5%. Your attendance record will be available in Blackboard.
+: You are allowed 5 absences without penalty; these include university excused absences for illness, death in the immediate family, religious observance, jury duty, or involvement in University-sponsored activities. Each additional absence will reduce your final average by 0.5%. Your attendance record will be available in Blackboard.
 
 Homework
 : There is a homework assignment due in most weeks. Late homework is penalized 10% per day (or part	thereof) late. Your lowest two scores are dropped.
 
 Labs
-: In most of the weeks, the Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest two scores are dropped when computing your grade.
+: The Tuesday lab meeting will be used for (computer) laboratories, to be completed during that time. Missed labs cannot be made up, but your lowest two scores are dropped when computing your grade.
 
 Tests
-: There will be 4 mid-term tests. Your lowest score is dropped when computing your grade.
+: There will be 4 mid-term tests, one after each chapter in the textbook. Tests are cumulative. 
 
 Final Exam
-: The final exam is on **TBD** (during the week of December 5).
+: The final exam is on Wednesday, December 7, 12:20-2:20pm.
       
 Grade
 : Your grade is based on 
   * 20% labs
-  * 30% homework
-  * 30% mid-term tests
-  * 20% final exam.
+  * 40% homework
+  * 25% mid-term tests
+  * 15% final exam.
   An average of 90% guarantees you at least an A-, 80% a B-, 70% a C-, and 60% a D-.
             
 Academic (mis)conduct 
