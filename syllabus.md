@@ -56,6 +56,7 @@ Grade
   * 40% homework
   * 25% mid-term tests
   * 15% final exam.
+  
   An average of 90% guarantees you at least an A-, 80% a B-, 70% a C-, and 60% a D-.
             
 Academic (mis)conduct 
