@@ -36,7 +36,7 @@ Computing Environment
 : We will be using the [Python](https://www.python.org/) programming language within [Jupyter Notebooks](https://jupyter.org/), run in [Ohio University's JupyterHub](https://jupyterhub.academic.kube.ohio.edu).
 
 Lecture attendance
-: You are allowed 5 absences without penalty; these include university excused absences for illness, death in the immediate family, religious observance, jury duty, or involvement in University-sponsored activities. Each additional absence will reduce your final average by 0.5%. Your attendance record will be available in Blackboard.
+: Attendance counts for a small part of your grade. Your attendance record will be available in Blackboard.
 
 Homework
 : There is a homework assignment due in most weeks. Late homework is penalized 10% per day (or part	thereof) late. Your lowest two scores are dropped.
@@ -52,8 +52,9 @@ Final Exam
       
 Grade
 : Your grade is based on 
+  * 5% Lecture attendance
   * 20% labs
-  * 40% homework
+  * 35% homework
   * 25% mid-term tests
   * 15% final exam.
   
