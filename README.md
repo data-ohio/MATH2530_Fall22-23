@@ -6,4 +6,6 @@ This `gh-pages` branch is used for the [class website](https://data-ohio.github.
 
 Github will build the website automatically when you `git push`.
 
-One is supposed to be able to [build and view locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll), but it is not working for me.
+Notes:
+* One is supposed to be able to [build and view locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll), but it is not working for me.
+* In the week files in _modules/, using tabs instead of spaces will mess up the builded and that week will not show.
