@@ -4,7 +4,7 @@ weekNumber: 5
 days:
 - date: 2022-09-19
   events:
-    ? '[2.3. Dynamic Visualization](https://data-ohio.github.io/introductory-data-science/2/3/2_3_dynamic_plotting.html)'
+    ? '**Test**{: .label .label-disc } on Chapter 1'
 - date: 2022-09-20
   events:
     ? '**Lab**{: .label .label-lab }'
