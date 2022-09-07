@@ -11,6 +11,7 @@ days:
 - date: 2022-09-07
   events:
     ? '[1.4. Cleaning data](https://data-ohio.github.io/introductory-data-science/1/4/1_4_clean_data.html)'
+    : ''
     ? '[1.4.1 Introduction to Pandas](https://data-ohio.github.io/introductory-data-science/1/4/intro_pandas.html)'
     : '[Datascience to Pandas Conversion](https://github.com/data-8/materials-x19/blob/master/reference/Datascience%20to%20Pandas%20Conversion%20Notebook.ipynb)'
 - date: 2022-09-09
