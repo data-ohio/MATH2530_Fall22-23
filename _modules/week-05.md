@@ -14,5 +14,5 @@ days:
 - date: 2022-09-23
   events:
     ? '[2.3. Dynamic Visualization](https://data-ohio.github.io/introductory-data-science/2/3/2_3_dynamic_plotting.html)'
-    ? '**Homework**{: .label .label-hw }'
+    ? '**Homework**{: .label .label-hw } [Homework 05: Visualization](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Fall22-23&urlpath=lab%2Ftree%2FMATH2530_Fall22-23%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main)'
 ---
