@@ -11,9 +11,9 @@ days:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-11-16
   events:
-    ? '**Test**{: .label .label-disc } through Chapter 4'
+    ? '[5.2. Unfair Discrimination and Social Bias](https://data-ohio.github.io/introductory-data-science/5/2/5_2_discrimination.html)'
 - date: 2022-11-18
   events:
-    ? '[5.2. Unfair Discrimination and Social Bias](https://data-ohio.github.io/introductory-data-science/5/2/5_2_discrimination.html)'
+    ? '[5.3. Transparency of Methods and Analysis](https://data-ohio.github.io/introductory-data-science/5/3/5_3_transparency.html)'
     ? '**Homework**{: .label .label-hw }'
 ---

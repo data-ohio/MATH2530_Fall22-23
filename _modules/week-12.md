@@ -5,7 +5,7 @@ days:
 - date: 2022-11-07
   events:
     ? '**Test**{: .label .label-disc } through Chapter 3'
-- date: 2022-11-09
+- date: 2022-11-08
   events:
     ? '**Lab**{: .label .label-lab }'
 - date: 2022-11-09
