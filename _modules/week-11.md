@@ -9,7 +9,6 @@ days:
     ? '**Lab**{: .label .label-lab } [Lab 11: Regression](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Fall22-23&urlpath=lab%2Ftree%2FMATH2530_Fall22-23%2Flab%2Flab11%2Flab11.ipynb&branch=main)'
 - date: 2022-11-02
   events:
-    ? '[4.3. Unsupervised Learning](https://data-ohio.github.io/introductory-data-science/4/3/4_3_unsupervised.html)'
     ? ''
 - date: 2022-11-04
   events:
