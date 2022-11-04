@@ -15,7 +15,7 @@ Description
 : Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
 
 Requisites
-: (Math placement 2 or higher) or MATH 1200 or 155 or PSY 1110
+: (Math placement 2 or higher) or MATH 1200 or 1500 or PSY 1110
 
 Credit Hours 
 : 4
