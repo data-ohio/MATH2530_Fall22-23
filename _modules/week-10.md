@@ -15,4 +15,5 @@ days:
 - date: 2022-10-28
   events:
     ? '**Homework**{: .label .label-hw } [Homework 10: Linear Regression](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Fall22-23&urlpath=lab%2Ftree%2FMATH2530_Fall22-23%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main)'
+    ? '(Withdraw deadline)'
 ---
